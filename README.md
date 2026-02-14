@@ -17,10 +17,10 @@ I've worked with companies in Guatemala and Germany across healthcare, eCommerce
 **Databases:** MySQL, PostgreSQL, Oracle, MongoDB  
 **DevOps & Tools:** Docker, AWS, Git, Bitbucket, Jira, Slack, Figma
 
-### Let's connect
+### Find me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pablo%20Curumaco-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/pablo-curumaco/)
-[![Email](https://img.shields.io/badge/Email-jpablocuru@gmail.com-blue?style=flat-square&logo=gmail)](mailto:jpablocuru@gmail.com)
+(https://www.linkedin.com/in/pablo-curumaco/)[LinkedIn]
+
 
 <!--
 **pablocurumaco/pablocurumaco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
