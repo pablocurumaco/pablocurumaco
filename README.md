@@ -19,8 +19,7 @@ I've worked with companies in Guatemala and Germany across healthcare, eCommerce
 
 ### Find me
 
-(https://www.linkedin.com/in/pablo-curumaco/)[LinkedIn]
-
+[LinkedIn](https://www.linkedin.com/in/pablo-curumaco/)
 
 <!--
 **pablocurumaco/pablocurumaco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
