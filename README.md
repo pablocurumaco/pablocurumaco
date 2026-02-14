@@ -1,4 +1,26 @@
-## Hi there 👋
+### Hallo there! 👋
+
+I'm **Pablo**, a Full Stack Developer based in Guatemala with 9 years of experience building web applications.
+
+I've worked with companies in Guatemala and Germany across healthcare, eCommerce, EdTech, and B2B. I enjoy turning complex problems into clean, functional solutions.
+
+- 💻 Currently working with **Laravel 12**, **React 19**, and **Node.js**
+- 🛢️ Databases: **MySQL**, **PostgreSQL**, **Oracle**
+- 🛠️ Tools I use daily: **Docker**, **AWS**, **Git**, **Jira**, **Figma**
+- 🌱 Learning **German** on Duolingo (slowly but surely)
+- 🌎 Open to remote opportunities
+
+### Tech Stack
+
+**Backend:** Laravel, PHP, Node.js, Express, Django REST Framework  
+**Frontend:** React, Vue.js, AngularJS, JavaScript, TypeScript  
+**Databases:** MySQL, PostgreSQL, Oracle, MongoDB  
+**DevOps & Tools:** Docker, AWS, Git, Bitbucket, Jira, Slack, Figma
+
+### Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pablo%20Curumaco-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/pablo-curumaco/)
+[![Email](https://img.shields.io/badge/Email-jpablocuru@gmail.com-blue?style=flat-square&logo=gmail)](mailto:jpablocuru@gmail.com)
 
 <!--
 **pablocurumaco/pablocurumaco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
